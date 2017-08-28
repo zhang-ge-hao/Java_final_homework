@@ -1,0 +1,8 @@
+YP001<>Shit A Little<>1.1<>0.5<>1<>2<>false
+YP002<>A Little Shit<>1.1<>0.5<>1<>3<>false
+YP003<>Baby<>1.1<>0.5<>2<>2<>true
+YP004<>Shit<>1.0<>0.5<>1<>1<>false
+YP011<>Shit A Little<>1.1<>0.5<>1<>2<>true
+YP012<>A Little Shit<>1.1<>0.5<>1<>2<>false
+YP013<>Baby<>1.1<>0.5<>2<>2<>false
+YP014<>Shit<>1.0<>0.5<>1<>2<>false
